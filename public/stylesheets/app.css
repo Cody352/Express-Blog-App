@@ -1,0 +1,63 @@
+body{
+    background: rgb(189, 243, 239);
+}
+
+.show{
+    text-align: center;
+    border: 2px solid purple;
+    margin-top: 20px;
+}
+
+img{
+    max-width: 450px;
+    max-height: 450px;
+}
+ .blogs{
+     text-align: center;
+     border: 2px solid purple;
+     margin-top: 10px;
+ }
+
+ .title{
+     border: 2px solid red;
+
+ }
+
+.titleIn{
+    width: 500px;
+}
+
+.image{
+    border: 2px solid blue;
+}
+
+.imageIn{
+    width: 500px;
+}
+
+.body{
+    border: 2px solid yellow;
+}
+
+.bodyIn{
+    width: 500px;
+}
+
+.submit{
+    border: 2px solid green;
+}
+
+.submitIn{
+    width: 500px;
+}
+.editIn{
+    color: orange;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.newBlog{
+    color: orange;
+    font-size: 30px;
+    font-weight: 800;
+}
